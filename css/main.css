@@ -1,0 +1,10 @@
+#map {
+        width: 100%;
+        height: 600px;
+        background-color: grey;
+      }
+
+#submit{
+	background: lightgreen;
+	width: 50px;
+}
